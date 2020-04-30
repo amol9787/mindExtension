@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mindExtension_Example' do
+  pod 'mindExtension', :path => '../'
+
+  target 'mindExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
