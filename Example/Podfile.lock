@@ -1,0 +1,16 @@
+PODS:
+  - mindExtension (0.1.0)
+
+DEPENDENCIES:
+  - mindExtension (from `../`)
+
+EXTERNAL SOURCES:
+  mindExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mindExtension: aa41368bab414ecd27efe9715e73c1c1ab859e26
+
+PODFILE CHECKSUM: 3b90d3a2cf26b89b384b7873acd3cbe9a99f8fbe
+
+COCOAPODS: 1.8.4
